@@ -1,0 +1,1 @@
+ <p align="center">2024 &copy; Mandera County Referal Hospital, MCRH. All rights reserved.
